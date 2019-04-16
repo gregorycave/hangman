@@ -1,2 +1,2 @@
 # hangman
-A hangman game built in Python, with a randomly selected word from a list
+A hangman game built with Python, that randomly selects a word to use in the game
